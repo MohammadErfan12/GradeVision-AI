@@ -3,7 +3,7 @@
 🤖 AI system for predicting student final scores using Machine Learning and Streamlit.
 # 🤖 GradeVision AI
 
-![Uploading screenshot.png…]()
+![GradeVision AI Screenshot]()
 <img width="1363" height="680" alt="screenshot" src="https://github.com/user-attachments/assets/7d15a665-fa6e-4a12-a9e3-6014c9213cb9" />
 
 ## 📌 Overview
